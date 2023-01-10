@@ -1,1 +1,5 @@
-
+Perform git init command in the folder
+Perform git add "Answer1.txt" to add Answer1 text file
+Perform git commit -m "First Answer"
+Perform git remote add origin
+Perform git push -u -f origin master
